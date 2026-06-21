@@ -1,0 +1,22 @@
+n
+c 1 cn2
+h 1 hn3 2 hnc3
+h 1 hn4 2 hnc4 3 dih4
+h 2 ch5 1 chn5 3 dih5
+h 2 ch6 1 chn6 3 dih6
+h 2 ch7 1 chn7 3 dih7
+cn2 1.471000
+hn3 1.012000
+hnc3 109.500
+hn4 1.012000
+hnc4 109.500
+dih4 120.000
+ch5 1.090000
+chn5 109.500
+dih5 180.000
+ch6 1.090000
+chn6 109.500
+dih6 60.000
+ch7 1.090000
+chn7 109.500
+dih7 300.000
